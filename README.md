@@ -125,4 +125,6 @@ ucab/
 
 ## License
 
-MIT
+Copyright © 2026 Asad Ali. All rights reserved.
+This project is created for academic purposes.
+Unauthorized copying, reuse, or submission of this work as your own is strictly prohibited.
